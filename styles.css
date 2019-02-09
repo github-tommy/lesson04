@@ -5,8 +5,6 @@ button {
     background-color: limegreen;
     color: white;
     border: dotted orange;
-    display: flex;
-    text-align: center;
     margin: auto;
   }
 
