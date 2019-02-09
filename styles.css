@@ -1,0 +1,33 @@
+button {
+    height: 5rem;
+    max-width: 200rem;
+    width: 15%;
+    background-color: limegreen;
+    color: white;
+    border: dotted orange;
+    display: flex;
+    text-align: center;
+    margin: auto;
+  }
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    position: relative;
+    background-color:lightgray;
+    height: 500px;
+    border: dotted green;
+}
+
+.call-me-container {
+    position: absolute;
+    background-color: #0070c9;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    text-align: center;
+    border: dotted red;
+}
