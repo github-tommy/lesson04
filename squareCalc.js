@@ -1,3 +1,14 @@
+function showMessage() {
+
+alert('Welcome to Money Game!');
+}
+
+showMessage();
+showMessage();
+
+//display welcome alert 2 times
+
+
 function myFunction() {
 let name = prompt('enter your name');
 let initialInvestment = prompt ('enter your investment amount');
