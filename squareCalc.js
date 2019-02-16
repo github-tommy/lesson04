@@ -9,7 +9,7 @@ showMessage();
 //display welcome alert 2 times
 
 
-function myFunction() {
+function squareMe() {
 let name = prompt('enter your name');
 let initialInvestment = prompt ('enter your investment amount');
 let subsequentInvestment = prompt ('enter number of times you plan to put in the plan');
@@ -21,7 +21,7 @@ alert('Congratulation '+ name + ', your estimated investment value is US$'+estim
 }
 // input# and square it.
 
-function myFunctionTwo() {
+function retireMe() {
 let name = prompt('enter your name');
 let expenses = prompt('enter your annual expenses in thousand dollars');
 let retirementAmount;
